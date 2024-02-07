@@ -47,7 +47,8 @@
             </div>
         </div>
     </div>
-    <!-- Add category Modal -->
+
+    <!-- Add category Modal Start-->
     <div class="modal fade" id="addCategoryModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
         aria-labelledby="staticBackdropLabel" aria-hidden="true">
 
@@ -85,7 +86,7 @@
                 </div>
             </div>
         </div>
-
     </div>
+    <!-- Add category Modal End-->
 </template>
 <style></style>
