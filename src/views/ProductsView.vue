@@ -22,7 +22,7 @@ const products = [
                 </button>
             </div>
         </div>
-        <div class="card p-0  rounded-0">
+        <div class="card">
             <div class="card-body">
                 <table class="table">
                     <thead class="table-light">
